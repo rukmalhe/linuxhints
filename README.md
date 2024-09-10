@@ -1,2 +1,1 @@
-# linuxhints
-Linux hints
+## Linux Cheat Sheet WIKI page
