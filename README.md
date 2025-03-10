@@ -22,7 +22,7 @@ This repository contains a wiki page that documents a wide range of Linux comman
 The wiki page is designed to be a quick reference guide for Linux users, from beginners to experienced administrators.
 
 ## Wiki Contents
-The wiki page can be accessed by clicking on the [Wiki](https://github.com/rukmalhe/linuxhints/wiki) tab above. The wiki is organized into categories, making it easy to find the commands you need.
+The wiki page can be accessed by clicking on the [Wiki](https://github.com/rukmalhe/linuxhints/wiki/Linux-Commands-Cheat-Sheet) tab above. The wiki is organized into categories, making it easy to find the commands you need.
 
 ## Contributing
 Contributions to this repository are welcome. If you have a favorite Linux command that you would like to share, please feel free to add it to the wiki. You can also create a pull request to suggest changes or improvements to the existing content.
@@ -38,7 +38,7 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 **Getting Started**
 
-1. Click on the [Wiki](https://github.com/rukmalhe/linuxhints/wiki) tab above to access the Linux commands wiki.
+1. Click on the [Wiki](https://github.com/rukmalhe/linuxhints/wiki/Linux-Commands-Cheat-Sheet) tab above to access the Linux commands wiki.
 2. Browse the categories to find the commands you need.
 3. If you have a command to share, create a new page or edit an existing one.
 
